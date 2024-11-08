@@ -19,7 +19,7 @@ This project is a full-stack e-commerce web application inspired by Etsy, built 
 
 ## 📺 Demo Video
 
-Check out this short video demonstration to see Etsy Online E-Commerce Marketplace in action:
+Check out this short video demonstration to see Etsy Online E-Commerce Marketplace in action on YouTube:
 
 [![Etsy Marketplace Demo Video](https://img.youtube.com/vi/kAzKOAmTkGc/0.jpg)](https://youtu.be/kAzKOAmTkGc)
 
@@ -117,7 +117,7 @@ The application will be available at `http://localhost:3000`.
 
 ## API Documentation
 
-For detailed API documentation, please refer to [API_DOCS.md](./Backend/API_DOCS.md).
+For further detailed API documentation information, please refer to [API_DOCS.md](./Backend/API_DOCS.md).
 
 ## Database Schema
 
